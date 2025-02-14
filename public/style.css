@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: yellow; /* CSK Yellow for Signup & Login */
+}
+.container {
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+input, button {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+}
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
